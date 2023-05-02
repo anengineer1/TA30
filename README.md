@@ -5,7 +5,7 @@ Introduction to JAvaScript
 [./EJ1](./EJ1)
 
   * EJ2
-[./EJ2](./EJ1)
+[./EJ2](./EJ2)
 
   * EJ3
 [./EJ3](./EJ3)
